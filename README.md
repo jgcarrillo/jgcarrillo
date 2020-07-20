@@ -22,4 +22,4 @@ Ingeniero de edificación por intención inicial y desarrollador web por decisi�
 #### 📝 Artículos más interesantes publicados en [Medium](https://medium.com/@jgcarrillo):
 - [Usando VIM durante un mes](https://medium.com/@jgcarrillo/us%C3%A9-vim-durante-un-mes-este-fue-el-resultado-atajos-vs-code-621074d6be3b)
 - [Mejora tu privacidad](https://medium.com/@jgcarrillo/hoy-puede-ser-un-buen-d%C3%ADa-para-mejorar-tu-privacidad-11c8e62c3571)
-- [Así conseguí aprender a programar en Java](https://medium.com/@jgcarrillo/us%C3%A9-vim-durante-un-mes-este-fue-el-resultado-atajos-vs-code-621074d6be3b)
+- [Así conseguí aprender a programar en Java](https://medium.com/@jgcarrillo/as%C3%AD-consegu%C3%AD-aprender-a-programar-en-java-9b90538cfb4)
