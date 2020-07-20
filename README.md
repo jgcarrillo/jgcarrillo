@@ -1,6 +1,6 @@
 # Hola, soy Jorge 👋💻
 
-![Hola 👋, Soy Jorge Gómez, desarrollador web autodidacta 👨‍💻 de Murcia, Spain 🇪🇸]()
+![Hola 👋, Soy Jorge Gómez, desarrollador web autodidacta 👨‍💻 de Murcia, Spain 🇪🇸](https://raw.githubusercontent.com/jgcarrillo/jgcarrillo/master/GithubProfile.jpg)
 
 <p align="center">
   <a href="https://twitter.com/jgcarrillo_" target="_blank">
