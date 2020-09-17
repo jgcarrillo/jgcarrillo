@@ -4,17 +4,20 @@
 
 <p align="center">
   <a href="https://twitter.com/jgcarrillo_" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jgcarrillo" height="28px" width="28px" />
   </a>
   <a href="https://es.linkedin.com/in/jgcarrilloweb" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev.frontend" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jgcarrillo" height="28px" width="28px" />
   </a>
   <a href="https://medium.com/@jgcarrillo" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="midu.dev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="jgcarrillo height="28px" width="28px" />
   </a>
   <a href="https://codepen.io/jgcarrillo/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="midu.dev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jgcarrillo" height="28px" width="28px" />
   </a>
+  <a href="https://dev.to/jgcarrillo" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jgcarrillo" height="28px" width="28px" />
+  </a>                                                                                                                                                                                                                                                                                
 </p>
 
 Ingeniero de edificación por intención inicial y desarrollador web por decisión final. Desde hace un año me dedico 100% al desarrollo web de manera autodidacta. Compagino la misma con formación reglada, cursando un Ciclo Superior en Desarrollo de Aplicaciones Web. Realizo pequeños proyectos para mejorar lo aprendido, cursos para aprender nuevas tecnologías y, en definitiva, todo aquello que me resulta curioso y me motiva a seguir aprendiendo. Puedes echarle un ojo a [mi web](https://jgcarrillo.com/) para conocerme un poco mejor. Entre las tecnologías con las que me siento más cómodo trabajando se encuentran HTML, CSS, JS y PHP.
