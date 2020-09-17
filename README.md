@@ -19,7 +19,8 @@
 
 Ingeniero de edificación por intención inicial y desarrollador web por decisión final. Desde hace un año me dedico 100% al desarrollo web de manera autodidacta. Compagino la misma con formación reglada, cursando un Ciclo Superior en Desarrollo de Aplicaciones Web. Realizo pequeños proyectos para mejorar lo aprendido, cursos para aprender nuevas tecnologías y, en definitiva, todo aquello que me resulta curioso y me motiva a seguir aprendiendo. Puedes echarle un ojo a [mi web](https://jgcarrillo.com/) para conocerme un poco mejor. Entre las tecnologías con las que me siento más cómodo trabajando se encuentran HTML, CSS, JS y PHP.
 
-#### 📝 Artículos más interesantes publicados en [Medium](https://medium.com/@jgcarrillo):
+#### 📝 Artículos más interesantes publicados en [Medium](https://medium.com/@jgcarrillo) y [Devto](https://dev.to/jgcarrillo):
 - [Usando VIM durante un mes](https://medium.com/@jgcarrillo/us%C3%A9-vim-durante-un-mes-este-fue-el-resultado-atajos-vs-code-621074d6be3b)
 - [Mejora tu privacidad](https://medium.com/@jgcarrillo/hoy-puede-ser-un-buen-d%C3%ADa-para-mejorar-tu-privacidad-11c8e62c3571)
 - [Así conseguí aprender a programar en Java](https://medium.com/@jgcarrillo/as%C3%AD-consegu%C3%AD-aprender-a-programar-en-java-9b90538cfb4)
+- [12 Useful Resources for Junior Web Developers](https://dev.to/jgcarrillo/8-useful-resources-for-junior-web-developers-12mp)
