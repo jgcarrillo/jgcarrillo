@@ -6,6 +6,7 @@ I'm a building engineer who decided some time ago to change radically his path i
 
 - 🌱 I'm currently learning
 - 👯 I'm looking for an opportunity to develop myself
+- How to reach me: [https://jgcarrillo.com/contact/](https://jgcarrillo.com/contact/)
 - ⚡ Fun fact: I'm also love reading books :P
 
 ## Hot links
