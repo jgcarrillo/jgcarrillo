@@ -11,7 +11,7 @@ I'm a building engineer who decided some time ago to radically change his path i
 - 📫 How to reach me: [https://jgcarrillo.com/contact/](https://jgcarrillo.com/contact/)
 - ⚡ Fun fact: I'm also love reading books :P
 
-## Hot links
+## 👁‍🗨 Hot links
 - 🌍 [http://jgcarrillo.com/](http://jgcarrillo.com/)
 - 👨‍💼 [https://es.linkedin.com/in/jgcarrilloweb](https://es.linkedin.com/in/jgcarrilloweb)
 - 🐣 [https://twitter.com/jgcarrillo_](https://twitter.com/jgcarrillo_)
