@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://github.com/jgcarrillo/jgcarrillo/blob/master/readme-img.jpg" />
+</p>
+
 # Hi!, I'm Jorge 👋💻
 
 I'm a building engineer who decided some time ago to radically change his path in order to become a web developer. I'm in love with good practices and continuously learning new skills. You can find further information about me [in my website](http://jgcarrillo.com/). Feel free to reach out!
