@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jgcarrillo/jgcarrillo/blob/master/jgcarrillo-banner.jpg" alt="Jorge banner" />
+  <img src="https://github.com/jgcarrillo/jgcarrillo/blob/master/jgcarrillo.jpg" alt="Jorge banner" />
 </p>
 
 # Hi!, I'm Jorge 👋💻
