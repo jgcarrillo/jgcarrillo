@@ -15,3 +15,4 @@ I'm a building engineer who decided some time ago to radically change his path i
 - 🌍 [http://jgcarrillo.com/](http://jgcarrillo.com/)
 - 👨‍💼 [https://es.linkedin.com/in/jgcarrilloweb](https://es.linkedin.com/in/jgcarrilloweb)
 - 🐣 [https://twitter.com/jgcarrillo_](https://twitter.com/jgcarrillo_)
+- 🎨 [https://dev.to/jgcarrillo](https://dev.to/jgcarrillo)
