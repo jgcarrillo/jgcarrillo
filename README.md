@@ -16,3 +16,4 @@ I'm a building engineer who decided some time ago to radically change his path i
 - 👨‍💼 [https://es.linkedin.com/in/jgcarrilloweb](https://es.linkedin.com/in/jgcarrilloweb)
 - 🐣 [https://twitter.com/jgcarrillo_](https://twitter.com/jgcarrillo_)
 - 🎨 [https://dev.to/jgcarrillo](https://dev.to/jgcarrillo)
+- 🔥 [https://stackoverflow.com/users/18326020/jgcarrillo](https://stackoverflow.com/users/18326020/jgcarrillo)
