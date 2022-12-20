@@ -4,7 +4,7 @@
 
 # Hi!, I'm Jorge 👋💻
 
-I'm a building engineer who decided some time ago to radically change his path in order to become a web developer. I'm in love with good practices and continuously learning new skills. You can find further information about me [in my website](http://jgcarrillo.com/). Feel free to reach me out!
+I'm a building engineer who decided some time ago to radically change his path in order to become a web developer. I'm in love with good practices and continuously learning new skills. You can find further information about me [on my website](http://jgcarrillo.com/). Feel free to reach me out!
 
 - 🌱 I'm working as a software developer
 - 👯 I'm currently learning Vue and Nuxt
