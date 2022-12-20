@@ -8,7 +8,6 @@ I'm a building engineer who decided some time ago to radically change his path i
 
 - 🌱 I'm working as a software developer
 - 👯 I'm currently learning Vue and Nuxt
-- 📫 How to reach me: [https://jgcarrillo.com/contact/](https://jgcarrillo.com/contact/)
 - ⚡ Fun fact: I'm also love reading books :P
 
 ## 👁‍🗨 Hot links
