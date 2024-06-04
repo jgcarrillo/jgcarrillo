@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jgcarrillo/jgcarrillo/blob/master/cover.jpg" alt="jgcarrillo banner" />
-</p>
-
 <div align='center'>
   <samp>
     <a href='http://jgcarrillo.com/'>website</a> •
